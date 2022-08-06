@@ -1,0 +1,14 @@
+.tkt{
+    display:flex;
+    background-color:#202433;
+   color:white;
+width:50%;
+}
+
+.seats-label{
+    margin-left:10px;
+}
+.show{
+    
+    margin:10px;
+}
